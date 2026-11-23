@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SD-01",
+    "title": "黑白小猫桌面转身",
+    "description": "竖屏拍摄电脑屏幕，黑白小猫在 Dock 与废纸篓附近呈现正面和背面姿态。",
+    "original_filename": "0b8d96de365e4993162df8109b4ac927.mp4",
+    "filename": "SD-01_黑白小猫桌面转身.mp4",
+    "duration_seconds": 6.9,
+    "width": 720,
+    "height": 1280,
+    "bytes": 1100072,
+    "sha256": "2700b9613069d4c1c759f6f707a99b77f35390efcfda131e975effae5d52d0af",
+    "duplicate_of": null,
+    "decode_ok": true
+  },
+  {
+    "id": "SD-02",
+    "title": "Windows桌面小猫动作演示",
+    "description": "横屏 Windows 桌面画面，小猫在壁纸上呈现不同姿态，上方可见图标气泡。",
+    "original_filename": "9699b1dc3fbf684fcb4b5ea8e7365093.mp4",
+    "filename": "SD-02_Windows桌面小猫动作演示.mp4",
+    "duration_seconds": 41.024,
+    "width": 1280,
+    "height": 848,
+    "bytes": 6923000,
+    "sha256": "41893cf3ad54fa6515615a79481ccc6f5a89adac8f846405c10880f7049f5d46",
+    "duplicate_of": null,
+    "decode_ok": true
+  },
+  {
+    "id": "SD-03",
+    "title": "黑白小猫窗口边缘互动",
+    "description": "竖屏拍摄电脑屏幕，黑白小猫位于窗口边缘与 Dock 上方，绿色鼠标指针参与画面。",
+    "original_filename": "453e225eef28edc07b2e993522ac962b.mp4",
+    "filename": "SD-03_黑白小猫窗口边缘互动.mp4",
+    "duration_seconds": 13.033356,
+    "width": 720,
+    "height": 1280,
+    "bytes": 2028541,
+    "sha256": "59e60d2a25f957485e8ea50c7bbf870a9c778ec89aa117d104e6c1ea06efb2c2",
+    "duplicate_of": null,
+    "decode_ok": true
+  },
+  {
+    "id": "SD-04",
+    "title": "虎斑小猫与功能菜单",
+    "description": "竖屏拍摄电脑屏幕，虎斑小猫在桌面，画面出现右键查看菜单提示及猫在功能主菜单。",
+    "original_filename": "2a78b3c1f94f3c1143391f4bb5e09371.mp4",
+    "filename": "SD-04_虎斑小猫与功能菜单.mp4",
+    "duration_seconds": 9.233333,
+    "width": 720,
+    "height": 1280,
+    "bytes": 1088157,
+    "sha256": "a646b6d8e94eaba65da9db01311e39ea55e10b44c0ac423c49690561dce2c34a",
+    "duplicate_of": null,
+    "decode_ok": true
+  }
+]
